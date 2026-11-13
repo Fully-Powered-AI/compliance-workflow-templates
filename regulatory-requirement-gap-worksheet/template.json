@@ -1,0 +1,48 @@
+{
+  "id": "regulatory-requirement-gap-worksheet",
+  "name": "Regulatory requirement gap worksheet",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Counsel and the compliance lead get one worksheet: each requirement counsel supplied, set beside the company's own policy and procedure passages, the controls its register maps and the evidence it has logged, with every missing link listed as a gap and a question. It never says whether the company complies.",
+  "directory": "https://fullypowered.ai/workflows/regulatory-requirement-gap-worksheet/",
+  "primary_function": "functions/compliance-risk-and-privacy",
+  "functions": [
+    "functions/compliance-risk-and-privacy",
+    "functions/legal-and-contracts"
+  ],
+  "industries": [
+    "industries/finance-and-investment",
+    "industries/insurance",
+    "industries/software-technology",
+    "industries/life-sciences"
+  ],
+  "situations": [
+    "situations/new-business-lines",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "audit-preparation",
+    "service-provider-evidence-matrix",
+    "authority-comparison-table"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own published map of compliance work: the illustrative entry on comparing a requirement counsel has supplied with the company's recorded practice."
+    }
+  ]
+}

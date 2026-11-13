@@ -1,0 +1,48 @@
+{
+  "id": "regulatory-watchlist-digest",
+  "name": "Regulatory watchlist digest",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "On the agreed schedule, counsel and the compliance lead get one dated digest of what was published on the company's own watchlist, from the sources supplied: each new item quoted with its link, every source not checked, and a reading list for counsel. It interprets nothing; counsel decides what applies.",
+  "directory": "https://fullypowered.ai/workflows/regulatory-watchlist-digest/",
+  "primary_function": "functions/compliance-risk-and-privacy",
+  "functions": [
+    "functions/compliance-risk-and-privacy",
+    "functions/legal-and-contracts"
+  ],
+  "industries": [
+    "industries/finance-and-investment",
+    "industries/insurance",
+    "industries/life-sciences",
+    "industries/software-technology"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/new-business-lines"
+  ],
+  "related": [
+    "authority-comparison-table",
+    "research-summary-brief",
+    "audit-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of compliance work, which describes the regulatory watchlist review: an agreed watchlist, the period's items from the agreed sources and the last digest go in; a dated digest with source links, coverage gaps and questions for counsel comes out; counsel decides what applies and the compliance lead assigns follow-up."
+    }
+  ]
+}

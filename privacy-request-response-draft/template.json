@@ -1,0 +1,47 @@
+{
+  "id": "privacy-request-response-draft",
+  "name": "Privacy request response preparation",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "For one person's request for a copy of their own data, the privacy owner gets a draft pack: the returned records in an evidence index, the searches set beside the plan with each gap, a question for each record showing someone else's data, and the company's own response template filled with the facts. It sends nothing.",
+  "directory": "https://fullypowered.ai/workflows/privacy-request-response-draft/",
+  "primary_function": "functions/compliance-risk-and-privacy",
+  "functions": [
+    "functions/compliance-risk-and-privacy"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/ecommerce-and-retail",
+    "industries/finance-and-investment",
+    "industries/insurance"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "records-request-preparation-check",
+    "regulatory-requirement-gap-worksheet",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-12",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-12",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own published map of privacy work: the illustrative entry on preparing the response to a person's request from the records the teams returned, with search gaps and redaction questions for the privacy owner."
+    }
+  ]
+}

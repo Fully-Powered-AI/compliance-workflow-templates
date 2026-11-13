@@ -1,0 +1,49 @@
+{
+  "id": "risk-register-from-discussions",
+  "name": "Risk register from risk discussions",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "After a risk workshop or a leadership meeting, the risk lead gets a draft register of the risks people actually raised: the controls they said are in place, the mitigations they proposed and the questions still open, each traced to who said it and where. Ratings use your own scale, or none.",
+  "directory": "https://fullypowered.ai/workflows/risk-register-from-discussions/",
+  "primary_function": "functions/compliance-risk-and-privacy",
+  "functions": [
+    "functions/compliance-risk-and-privacy",
+    "functions/leadership",
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/manufacturing",
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/nonprofits"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/private-equity-and-portfolios"
+  ],
+  "related": [
+    "workplace-risk-assessment",
+    "premortem-before-a-decision",
+    "decision-log"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of this work, from which the rule that every entry is traced to a speaker and a line, the rating rules tied to the organisation's own scale, and the handling of what is raised but not entered were written for this template."
+    }
+  ]
+}

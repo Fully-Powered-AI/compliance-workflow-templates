@@ -1,0 +1,47 @@
+{
+  "id": "audit-finding-closure-evidence",
+  "name": "Audit finding closure evidence",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "When an owner says an audit finding is fixed, the compliance lead gets the finding, the promised actions and the records supplied side by side: what each promise is backed by, what is missing and the questions to settle first. The auditor or the compliance lead decides whether it closes.",
+  "directory": "https://fullypowered.ai/workflows/audit-finding-closure-evidence/",
+  "primary_function": "functions/compliance-risk-and-privacy",
+  "functions": [
+    "functions/compliance-risk-and-privacy",
+    "functions/information-security"
+  ],
+  "industries": [
+    "industries/finance-and-investment",
+    "industries/insurance",
+    "industries/software-technology"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "audit-evidence-index",
+    "incident-investigation-and-corrective-actions",
+    "audit-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of compliance work: preparing the evidence to close an audit finding, written without third-party text."
+    }
+  ]
+}

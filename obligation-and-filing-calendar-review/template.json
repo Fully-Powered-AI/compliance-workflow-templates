@@ -1,0 +1,49 @@
+{
+  "id": "obligation-and-filing-calendar-review",
+  "name": "Obligation and filing calendar review",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Before each scheduled review, the compliance lead, company secretary or environmental lead sees what comes due from the organisation's own register: each obligation, filing and renewal with its owner, its due date as recorded, the evidence on file and every gap as a question. It works out no deadline and files nothing.",
+  "directory": "https://fullypowered.ai/workflows/obligation-and-filing-calendar-review/",
+  "primary_function": "functions/compliance-risk-and-privacy",
+  "functions": [
+    "functions/compliance-risk-and-privacy",
+    "functions/legal-and-contracts",
+    "functions/health-safety-and-environment"
+  ],
+  "industries": [
+    "industries/manufacturing",
+    "industries/energy",
+    "industries/finance-and-investment",
+    "industries/healthcare"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/acquisitions-and-integration"
+  ],
+  "related": [
+    "contract-renewal-notice-register",
+    "audit-preparation",
+    "emissions-activity-data-schedule"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own design, written from its published map of three pieces of recurring work (the obligation register review, entity filing preparation and environmental monitoring evidence): the organisation's register as the only authority for what is owed and when, every gap turned into a question for a named role, and a person who files, submits, pays and updates the register."
+    }
+  ]
+}

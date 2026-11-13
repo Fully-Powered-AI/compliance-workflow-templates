@@ -1,0 +1,49 @@
+{
+  "id": "director-conflict-declarations-register",
+  "name": "Director conflict of interest declarations register",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Each declarations round, and when a new director joins, the company secretary gets one register: who was asked, who has returned a form and who is outstanding, every disclosed interest quoted from the forms, and each one sharing a name with a current supplier, customer or agenda item, as a question for whoever decides.",
+  "directory": "https://fullypowered.ai/workflows/director-conflict-declarations-register/",
+  "primary_function": "functions/compliance-risk-and-privacy",
+  "functions": [
+    "functions/compliance-risk-and-privacy",
+    "functions/legal-and-contracts",
+    "functions/executive-and-office-support"
+  ],
+  "industries": [
+    "industries/nonprofits",
+    "industries/healthcare",
+    "industries/finance-and-investment",
+    "industries/education"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/private-equity-and-portfolios"
+  ],
+  "related": [
+    "board-meeting-pack",
+    "board-minutes-draft",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own map of the work: collecting directors' and officers' conflict of interest declarations each year and when a director joins, and setting disclosed interests beside current suppliers, customers and agenda items for the company secretary."
+    }
+  ]
+}

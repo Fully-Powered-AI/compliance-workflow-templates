@@ -1,0 +1,63 @@
+{
+  "repository": "Fully-Powered-AI/compliance-workflow-templates",
+  "title": "Compliance, Risk and Privacy",
+  "term": "functions/compliance-risk-and-privacy",
+  "templates": [
+    {
+      "id": "audit-finding-closure-evidence",
+      "name": "Audit finding closure evidence",
+      "version": "0.1.0",
+      "summary": "When an owner says an audit finding is fixed, the compliance lead gets the finding, the promised actions and the records supplied side by side: what each promise is backed by, what is missing and the questions to settle first. The auditor or the compliance lead decides whether it closes.",
+      "path": "audit-finding-closure-evidence/",
+      "directory": "https://fullypowered.ai/workflows/audit-finding-closure-evidence/"
+    },
+    {
+      "id": "director-conflict-declarations-register",
+      "name": "Director conflict of interest declarations register",
+      "version": "0.1.0",
+      "summary": "Each declarations round, and when a new director joins, the company secretary gets one register: who was asked, who has returned a form and who is outstanding, every disclosed interest quoted from the forms, and each one sharing a name with a current supplier, customer or agenda item, as a question for whoever decides.",
+      "path": "director-conflict-declarations-register/",
+      "directory": "https://fullypowered.ai/workflows/director-conflict-declarations-register/"
+    },
+    {
+      "id": "obligation-and-filing-calendar-review",
+      "name": "Obligation and filing calendar review",
+      "version": "0.1.0",
+      "summary": "Before each scheduled review, the compliance lead, company secretary or environmental lead sees what comes due from the organisation's own register: each obligation, filing and renewal with its owner, its due date as recorded, the evidence on file and every gap as a question. It works out no deadline and files nothing.",
+      "path": "obligation-and-filing-calendar-review/",
+      "directory": "https://fullypowered.ai/workflows/obligation-and-filing-calendar-review/"
+    },
+    {
+      "id": "privacy-request-response-draft",
+      "name": "Privacy request response preparation",
+      "version": "0.1.0",
+      "summary": "For one person's request for a copy of their own data, the privacy owner gets a draft pack: the returned records in an evidence index, the searches set beside the plan with each gap, a question for each record showing someone else's data, and the company's own response template filled with the facts. It sends nothing.",
+      "path": "privacy-request-response-draft/",
+      "directory": "https://fullypowered.ai/workflows/privacy-request-response-draft/"
+    },
+    {
+      "id": "regulatory-requirement-gap-worksheet",
+      "name": "Regulatory requirement gap worksheet",
+      "version": "0.1.0",
+      "summary": "Counsel and the compliance lead get one worksheet: each requirement counsel supplied, set beside the company's own policy and procedure passages, the controls its register maps and the evidence it has logged, with every missing link listed as a gap and a question. It never says whether the company complies.",
+      "path": "regulatory-requirement-gap-worksheet/",
+      "directory": "https://fullypowered.ai/workflows/regulatory-requirement-gap-worksheet/"
+    },
+    {
+      "id": "regulatory-watchlist-digest",
+      "name": "Regulatory watchlist digest",
+      "version": "0.1.0",
+      "summary": "On the agreed schedule, counsel and the compliance lead get one dated digest of what was published on the company's own watchlist, from the sources supplied: each new item quoted with its link, every source not checked, and a reading list for counsel. It interprets nothing; counsel decides what applies.",
+      "path": "regulatory-watchlist-digest/",
+      "directory": "https://fullypowered.ai/workflows/regulatory-watchlist-digest/"
+    },
+    {
+      "id": "risk-register-from-discussions",
+      "name": "Risk register from risk discussions",
+      "version": "0.1.0",
+      "summary": "After a risk workshop or a leadership meeting, the risk lead gets a draft register of the risks people actually raised: the controls they said are in place, the mitigations they proposed and the questions still open, each traced to who said it and where. Ratings use your own scale, or none.",
+      "path": "risk-register-from-discussions/",
+      "directory": "https://fullypowered.ai/workflows/risk-register-from-discussions/"
+    }
+  ]
+}
