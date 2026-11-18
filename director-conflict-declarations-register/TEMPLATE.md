@@ -1,6 +1,6 @@
 # Director conflict of interest declarations register
 
-Workflow template 0.1.0 · Compliance, risk and privacy · Corporate governance · Fully Powered AI
+Workflow template 0.1.0 · Compliance, risk and privacy · Corporate governance · FullyPowered AI
 
 ## Purpose
 
@@ -407,4 +407,4 @@ form complete: decline, and change nothing.
 
 ## Version notes
 
-0.1.0 · 11 November 2026 · Written by Fully Powered AI from its own map of the work; no third-party text used. Editorially reviewed. Not reviewed by a lawyer. Tried once on its invented example in Claude on 11 November 2026, with the record published; the template and example were corrected afterwards and the corrected version has not been run again; not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini. It prepares and compares names only: it decides no conflict, interprets no law, regulation, code or policy, and sends nothing.
+0.1.0 · 11 November 2026 · Written by FullyPowered AI from its own map of the work; no third-party text used. Editorially reviewed. Not reviewed by a lawyer. Tried once on its invented example in Claude on 11 November 2026, with the record published; the template and example were corrected afterwards and the corrected version has not been run again; not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini. It prepares and compares names only: it decides no conflict, interprets no law, regulation, code or policy, and sends nothing.

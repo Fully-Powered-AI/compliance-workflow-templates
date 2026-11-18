@@ -315,4 +315,4 @@ password, a key or a person's private details, do not repeat it.
 
 ## Version notes
 
-- 0.1.0, 11 November 2026. Written by Fully Powered AI from its own published map of the work, in its own words. Editorially reviewed. Tried on its invented example in Claude on 11 November 2026, twice: after an independent review changed the instruction block (the question wording and the closure decider default now sit in it, and seven open choices were settled), it was run again, and the second run is recorded in the published trial. Not yet tested in a client environment.
+- 0.1.0, 11 November 2026. Written by FullyPowered AI from its own published map of the work, in its own words. Editorially reviewed. Tried on its invented example in Claude on 11 November 2026, twice: after an independent review changed the instruction block (the question wording and the closure decider default now sit in it, and seven open choices were settled), it was run again, and the second run is recorded in the published trial. Not yet tested in a client environment.

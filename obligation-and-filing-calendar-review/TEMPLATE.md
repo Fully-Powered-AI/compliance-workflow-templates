@@ -285,4 +285,4 @@ every count in the header against the groups.
 
 ## Version notes
 
-- 0.1.0, 11 November 2026. Written by Fully Powered AI from its own published map of the work. Editorially reviewed. Run on its invented example on 11 November 2026 (the record is in the trial), not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 11 November 2026. Written by FullyPowered AI from its own published map of the work. Editorially reviewed. Run on its invented example on 11 November 2026 (the record is in the trial), not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

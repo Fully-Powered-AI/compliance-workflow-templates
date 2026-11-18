@@ -1,6 +1,6 @@
 # Regulatory watchlist digest
 
-Workflow template 0.1.0 · Compliance, risk and privacy · Regulatory affairs · Fully Powered AI
+Workflow template 0.1.0 · Compliance, risk and privacy · Regulatory affairs · FullyPowered AI
 
 ## Purpose
 
@@ -335,4 +335,4 @@ missing, write NOT READY with the reason at the top and go on.
 
 ## Version notes
 
-- 0.1.0, 11 November 2026. Written by Fully Powered AI from its own published map of compliance work. Editorially reviewed. Not reviewed by a lawyer. Tried once on its invented example in Claude on 11 November 2026, then edited, and tried briefly again on three stop and decline cases (see the trial record). Not yet tested in a client environment.
+- 0.1.0, 11 November 2026. Written by FullyPowered AI from its own published map of compliance work. Editorially reviewed. Not reviewed by a lawyer. Tried once on its invented example in Claude on 11 November 2026, then edited, and tried briefly again on three stop and decline cases (see the trial record). Not yet tested in a client environment.

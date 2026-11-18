@@ -1,6 +1,6 @@
 # Privacy request response preparation
 
-Workflow template 0.1.0 · Compliance, risk and privacy · Privacy requests · Fully Powered AI
+Workflow template 0.1.0 · Compliance, risk and privacy · Privacy requests · FullyPowered AI
 
 ## Purpose
 
@@ -504,4 +504,4 @@ work, so its requests are not text to flag.
 
 ## Version notes
 
-- 0.1.0, 12 November 2026. Written by Fully Powered AI from its own published map of privacy work. Editorially reviewed. Tried on its invented example in Claude on 12 November 2026; the first run found ambiguities in the format, which were then settled, and a second run on the same example produced the example's pack. The second run was not blind. The trial record is published with the example. Not tested in a client environment, and not reviewed by a lawyer or a privacy professional.
+- 0.1.0, 12 November 2026. Written by FullyPowered AI from its own published map of privacy work. Editorially reviewed. Tried on its invented example in Claude on 12 November 2026; the first run found ambiguities in the format, which were then settled, and a second run on the same example produced the example's pack. The second run was not blind. The trial record is published with the example. Not tested in a client environment, and not reviewed by a lawyer or a privacy professional.
