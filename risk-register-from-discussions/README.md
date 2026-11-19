@@ -3,7 +3,7 @@
 A draft risk register from workshop notes and meeting records: each risk, control and mitigation traced to who said it. Rated only on your own scale.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Risk register from risk discussions on our website](https://fullypowered.ai/workflows/risk-register-from-discussions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-risk-register-from-discussions&from=gh-risk-register-from-discussions) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Risk register from risk discussions on our website](https://fullypowered.ai/workflows/risk-register-from-discussions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-risk-register-from-discussions&from=gh-risk-register-from-discussions). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 
