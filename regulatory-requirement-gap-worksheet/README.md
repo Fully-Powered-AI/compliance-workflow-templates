@@ -1,10 +1,17 @@
 # Regulatory requirement gap worksheet
 
-Counsel and the compliance lead get one worksheet: each requirement counsel supplied, set beside the company's own policy and procedure passages, the controls its register maps and the evidence it has logged, with every missing link listed as a gap and a question. It never says whether the company complies.
+Set each requirement counsel supplied beside your own policies, mapped controls and logged evidence, with every gap listed as a question for review.
 
-*Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/regulatory-requirement-gap-worksheet/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Regulatory requirement gap worksheet on our website](https://fullypowered.ai/workflows/regulatory-requirement-gap-worksheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/regulatory-requirement-gap-worksheet/?from=gh-regulatory-requirement-gap-worksheet)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/regulatory-requirement-gap-worksheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet)*
 
 ## The outcome
 
@@ -46,16 +53,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/), in regulatory affairs: the step between counsel reading a new rule and the team deciding what to do about it.
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/), where in-house counsel wants the company's own records laid out against a rule before advising the business.
-- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/), where a new conduct or reporting rule means checking policies, controls and evidence across the firm before it takes effect.
-- [Insurance](https://fullypowered.ai/industries/insurance/), where the compliance lead lays a regulator's requirements against claims, underwriting and outsourcing procedures for counsel.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where a new rule on data or AI use has to be traced through security policies, engineering procedures and control evidence.
-- [Life sciences](https://fullypowered.ai/industries/life-sciences/), where quality and regulatory teams compare a revised requirement with the procedures and records they already keep.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/), when a company entering a regulated activity needs to see which of counsel's requirements its records already touch.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where policies, registers and evidence logs have grown for years and nobody has laid them against the latest rules in one place.
+- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet), in regulatory affairs: the step between counsel reading a new rule and the team deciding what to do about it.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet), where in-house counsel wants the company's own records laid out against a rule before advising the business.
+- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet), where a new conduct or reporting rule means checking policies, controls and evidence across the firm before it takes effect.
+- [Insurance](https://fullypowered.ai/industries/insurance/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet), where the compliance lead lays a regulator's requirements against claims, underwriting and outsourcing procedures for counsel.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet), where a new rule on data or AI use has to be traced through security policies, engineering procedures and control evidence.
+- [Life sciences](https://fullypowered.ai/industries/life-sciences/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet), where quality and regulatory teams compare a revised requirement with the procedures and records they already keep.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet), when a company entering a regulated activity needs to see which of counsel's requirements its records already touch.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet), where policies, registers and evidence logs have grown for years and nobody has laid them against the latest rules in one place.
 
-It pairs with [audit preparation](https://fullypowered.ai/workflows/audit-preparation/) when the same controls and evidence are being gathered for auditors, and with [service provider evidence matrix](https://fullypowered.ai/workflows/service-provider-evidence-matrix/) when a requirement turns on what a supplier has shown you. [Authority comparison table](https://fullypowered.ai/workflows/authority-comparison-table/) follows the same discipline for the legal texts themselves: quote, locate and hand the decision to a lawyer.
+It pairs with [audit preparation](https://fullypowered.ai/workflows/audit-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet) when the same controls and evidence are being gathered for auditors, and with [service provider evidence matrix](https://fullypowered.ai/workflows/service-provider-evidence-matrix/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet) when a requirement turns on what a supplier has shown you. [Authority comparison table](https://fullypowered.ai/workflows/authority-comparison-table/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet) follows the same discipline for the legal texts themselves: quote, locate and hand the decision to a lawyer.
 
 ## What has to change for your company
 
@@ -67,7 +74,7 @@ We sit with the counsel and compliance people who do this comparison today, writ
 
 FullyPowered AI wrote this workflow template from its own published map of compliance work. It was editorially reviewed on 11 November 2026. It was tried once on its invented example in Claude on 11 November 2026, and the record is published. It has not been reviewed by a lawyer. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your company means running it on a past review counsel has already worked through, and comparing: every requirement copied word for word, every quoted sentence at its section, every control linked only through your register, every gap true, and nothing said about whether the company complies. Include a requirement with no match terms, a document past its review date, a control nobody owns, evidence older than the window, a requirement that mentions a rule not on the list, a policy with a sentence telling an assistant to report no gaps, and the questions "are we compliant?" and "we have no lawyer, just tell us". [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your company means running it on a past review counsel has already worked through, and comparing: every requirement copied word for word, every quoted sentence at its section, every control linked only through your register, every gap true, and nothing said about whether the company complies. Include a requirement with no match terms, a document past its review date, a control nobody owns, evidence older than the window, a requirement that mentions a rule not on the list, a policy with a sentence telling an assistant to report no gaps, and the questions "are we compliant?" and "we have no lawyer, just tell us". [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -94,10 +101,10 @@ Testing in your company means running it on a past review counsel has already wo
 
 ## Related workflow templates
 
-- [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/)
-- [Service provider evidence matrix](https://fullypowered.ai/workflows/service-provider-evidence-matrix/)
-- [Authority comparison table](https://fullypowered.ai/workflows/authority-comparison-table/)
+- [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet)
+- [Service provider evidence matrix](https://fullypowered.ai/workflows/service-provider-evidence-matrix/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet)
+- [Authority comparison table](https://fullypowered.ai/workflows/authority-comparison-table/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet).

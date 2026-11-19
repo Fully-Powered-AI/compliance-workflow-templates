@@ -1,10 +1,17 @@
 # Privacy request response preparation
 
-For one person's request for a copy of their own data, the privacy owner gets a draft pack: the returned records in an evidence index, the searches set beside the plan with each gap, a question for each record showing someone else's data, and the company's own response template filled with the facts. It sends nothing.
+Index the records returned for a data access request, list search gaps and redaction questions, and fill your own response template for the privacy owner.
 
-*Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/privacy-request-response-draft/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Privacy request response preparation on our website](https://fullypowered.ai/workflows/privacy-request-response-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/privacy-request-response-draft/?from=gh-privacy-request-response-draft)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/privacy-request-response-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft)*
 
 ## The outcome
 
@@ -49,15 +56,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/), in privacy requests: the step between the teams finishing their searches and the privacy owner deciding what goes out.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where one user's data sits across the product database, the support desk and the billing system, and each search has to be shown.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where orders, gift deliveries and support threads put other customers' names and addresses into the records a shopper asks for.
-- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/), where a client's request reaches account records, call notes and internal review notes that the privacy owner must look at before anything is copied.
-- [Insurance](https://fullypowered.ai/industries/insurance/), where policy and claims files name other people, and every one of them has to be put to the privacy owner before a copy goes out.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when requests start arriving more often than one person can track from memory.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where years of systems mean the search plan is long and a missed system is easy.
+- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft), in privacy requests: the step between the teams finishing their searches and the privacy owner deciding what goes out.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft), where one user's data sits across the product database, the support desk and the billing system, and each search has to be shown.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft), where orders, gift deliveries and support threads put other customers' names and addresses into the records a shopper asks for.
+- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft), where a client's request reaches account records, call notes and internal review notes that the privacy owner must look at before anything is copied.
+- [Insurance](https://fullypowered.ai/industries/insurance/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft), where policy and claims files name other people, and every one of them has to be put to the privacy owner before a copy goes out.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft), when requests start arriving more often than one person can track from memory.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft), where years of systems mean the search plan is long and a missed system is easy.
 
-It pairs with the [regulatory requirement gap worksheet](https://fullypowered.ai/workflows/regulatory-requirement-gap-worksheet/), which lays counsel's requirements against the company's own records. A medical practice releasing patient records uses the [records request preparation check](https://fullypowered.ai/workflows/records-request-preparation-check/) instead.
+It pairs with the [regulatory requirement gap worksheet](https://fullypowered.ai/workflows/regulatory-requirement-gap-worksheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft), which lays counsel's requirements against the company's own records. A medical practice releasing patient records uses the [records request preparation check](https://fullypowered.ai/workflows/records-request-preparation-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft) instead.
 
 ## What has to change for your company
 
@@ -69,7 +76,7 @@ We sit with the people who answer these requests today, write down how they real
 
 FullyPowered AI wrote this workflow template from its own published map of privacy work. It was editorially reviewed on 12 November 2026. It was tried on its invented example in Claude on 12 November 2026, in two runs; the first found ambiguities in the format, which were then settled and checked in a second run on the same example that was not blind; the record is published with the example. It has not been reviewed by a lawyer or a privacy professional, and has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your company means running it on a past request your privacy owner has already answered, and comparing: every system on the plan accounted for, every record in the index once, every other person in a record put as a question, every team note copied word for word, and nothing in the response that is not in your template or your records. Include a system nobody searched, a search that left out an identifier, a gift order naming another customer, a record that shows none of the requester's details, a record that tells an assistant to send everything, and the questions "what is our legal deadline?" and "can we keep this note back?". [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your company means running it on a past request your privacy owner has already answered, and comparing: every system on the plan accounted for, every record in the index once, every other person in a record put as a question, every team note copied word for word, and nothing in the response that is not in your template or your records. Include a system nobody searched, a search that left out an identifier, a gift order naming another customer, a record that shows none of the requester's details, a record that tells an assistant to send everything, and the questions "what is our legal deadline?" and "can we keep this note back?". [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -96,10 +103,10 @@ Testing in your company means running it on a past request your privacy owner ha
 
 ## Related workflow templates
 
-- [Records request preparation check](https://fullypowered.ai/workflows/records-request-preparation-check/)
+- [Records request preparation check](https://fullypowered.ai/workflows/records-request-preparation-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft)
 - [Regulatory requirement gap worksheet](../regulatory-requirement-gap-worksheet/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft).

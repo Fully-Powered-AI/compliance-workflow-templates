@@ -1,10 +1,17 @@
 # Regulatory watchlist digest
 
-On the agreed schedule, counsel and the compliance lead get one dated digest of what was published on the company's own watchlist, from the sources supplied: each new item quoted with its link, every source not checked, and a reading list for counsel. It interprets nothing; counsel decides what applies.
+A dated digest of new items on your regulatory watchlist, quoted with links, with every unchecked source listed. Counsel decides what applies.
 
-*Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/regulatory-watchlist-digest/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Regulatory watchlist digest on our website](https://fullypowered.ai/workflows/regulatory-watchlist-digest/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/regulatory-watchlist-digest/?from=gh-regulatory-watchlist-digest)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/regulatory-watchlist-digest/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest)*
 
 ## The outcome
 
@@ -46,16 +53,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/), where the watchlist review is a fixed rhythm and a missed source is the quiet failure.
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/), where counsel wants the reading ready and checkable, not interpreted.
-- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/), where notices from several regulators and ombudsmen arrive in the same month and each needs an owner.
-- [Insurance](https://fullypowered.ai/industries/insurance/), where bulletins from more than one regulator have to be read against the products the company writes.
-- [Life sciences](https://fullypowered.ai/industries/life-sciences/), where guidance, consultations and final documents from the same body must stay clearly apart.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where privacy and product rules change in several places at once and the company's lawyer is often outside counsel.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when entering a new market adds sources faster than anyone can watch them by hand.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/), when a new product brings a regulator the company has never had to watch.
+- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest), where the watchlist review is a fixed rhythm and a missed source is the quiet failure.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest), where counsel wants the reading ready and checkable, not interpreted.
+- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest), where notices from several regulators and ombudsmen arrive in the same month and each needs an owner.
+- [Insurance](https://fullypowered.ai/industries/insurance/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest), where bulletins from more than one regulator have to be read against the products the company writes.
+- [Life sciences](https://fullypowered.ai/industries/life-sciences/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest), where guidance, consultations and final documents from the same body must stay clearly apart.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest), where privacy and product rules change in several places at once and the company's lawyer is often outside counsel.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest), when entering a new market adds sources faster than anyone can watch them by hand.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest), when a new product brings a regulator the company has never had to watch.
 
-Once counsel flags an item for a closer look, [authority comparison table](https://fullypowered.ai/workflows/authority-comparison-table/) sets the texts counsel selects side by side. To summarise a pile of reports for an executive, use [research summary brief](https://fullypowered.ai/workflows/research-summary-brief/). [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/) gathers the evidence an auditor will ask for.
+Once counsel flags an item for a closer look, [authority comparison table](https://fullypowered.ai/workflows/authority-comparison-table/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest) sets the texts counsel selects side by side. To summarise a pile of reports for an executive, use [research summary brief](https://fullypowered.ai/workflows/research-summary-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest). [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest) gathers the evidence an auditor will ask for.
 
 ## What has to change for your company
 
@@ -67,7 +74,7 @@ We sit with your compliance lead and counsel, write down how your watchlist revi
 
 FullyPowered AI wrote this workflow template from its own published map of compliance work, with no third-party text. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its invented example in Claude on 11 November 2026, and a second short run covered a changed column, a request to check the website and a missing lawyer; the records are published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your company means running it on two or three past periods your compliance lead remembers well, with hard cases written in advance: a source left unchecked, an item already reported, a column renamed in the export, a sentence in an item that tells the assistant what to do, and the questions people really ask ("does this apply to us?", "just check the website"). Counsel checks every quotation against the source before anyone relies on the digest. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your company means running it on two or three past periods your compliance lead remembers well, with hard cases written in advance: a source left unchecked, an item already reported, a column renamed in the export, a sentence in an item that tells the assistant what to do, and the questions people really ask ("does this apply to us?", "just check the website"). Counsel checks every quotation against the source before anyone relies on the digest. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -94,10 +101,10 @@ Testing in your company means running it on two or three past periods your compl
 
 ## Related workflow templates
 
-- [Authority comparison table](https://fullypowered.ai/workflows/authority-comparison-table/)
-- [Research summary brief](https://fullypowered.ai/workflows/research-summary-brief/)
-- [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/)
+- [Authority comparison table](https://fullypowered.ai/workflows/authority-comparison-table/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest)
+- [Research summary brief](https://fullypowered.ai/workflows/research-summary-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest)
+- [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest).

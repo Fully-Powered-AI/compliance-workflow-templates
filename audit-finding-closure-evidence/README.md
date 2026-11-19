@@ -1,10 +1,17 @@
 # Audit finding closure evidence
 
-When an owner says an audit finding is fixed, the compliance lead gets the finding, the promised actions and the records supplied side by side: what each promise is backed by, what is missing and the questions to settle first. The auditor or the compliance lead decides whether it closes.
+Set an audit finding, its promised actions and the records supplied side by side, with what is missing. The auditor or compliance lead decides closure.
 
-*Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/audit-finding-closure-evidence/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Audit finding closure evidence on our website](https://fullypowered.ai/workflows/audit-finding-closure-evidence/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/audit-finding-closure-evidence/?from=gh-audit-finding-closure-evidence)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/audit-finding-closure-evidence/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence)*
 
 ## The outcome
 
@@ -12,7 +19,7 @@ When an owner says an audit finding is fixed, the compliance lead gets the findi
 
 This workflow template does that lining up in one pass. Every item of evidence the plan promised sits beside the records tied to it, with one of three outcomes: supplied as promised, partly supplied or not supplied. A record counts only when it is dated no earlier than the day the finding was raised, is not dated in the future, and is the kind the plan promised: a revised document, a record that the change was made, or records the fixed control produced as it ran. An owner's own email that the work is done is listed, but it never stands in for a record. Gaps in time (for promises with a period) and gaps in scope (for implementation and operation promises) are named, so "the check has run since August" becomes "no record covers September".
 
-The comparison ends with retest questions for the person who decides closure, and a numbered list of questions, each addressed to the person who can answer it. It never says the finding is closed, that the fix works or that a requirement is met. For the index of everything an auditor asks to see before an audit, use [Audit evidence index](https://fullypowered.ai/workflows/audit-evidence-index/); for investigating an incident and following its actions, use [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/).
+The comparison ends with retest questions for the person who decides closure, and a numbered list of questions, each addressed to the person who can answer it. It never says the finding is closed, that the fix works or that a requirement is met. For the index of everything an auditor asks to see before an audit, use [Audit evidence index](https://fullypowered.ai/workflows/audit-evidence-index/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence); for investigating an incident and following its actions, use [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence).
 
 ## Who starts the work, and when
 
@@ -40,13 +47,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/), where findings from every kind of audit are tracked to closure.
-- [Information security](https://fullypowered.ai/functions/information-security/), where many findings are about access, change and monitoring controls that must be shown to run over time.
-- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/), where internal audit, external auditors and examiners all raise findings that need closing on records.
-- [Insurance](https://fullypowered.ai/industries/insurance/), where audit committees follow overdue and reopened findings closely.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where customer security audits and annual attestation work raise findings on systems that change every week.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the first serious audit arrives and nobody has closed a finding on records before.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the findings tracker is long and the same findings come back year after year.
+- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence), where findings from every kind of audit are tracked to closure.
+- [Information security](https://fullypowered.ai/functions/information-security/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence), where many findings are about access, change and monitoring controls that must be shown to run over time.
+- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence), where internal audit, external auditors and examiners all raise findings that need closing on records.
+- [Insurance](https://fullypowered.ai/industries/insurance/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence), where audit committees follow overdue and reopened findings closely.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence), where customer security audits and annual attestation work raise findings on systems that change every week.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence), when the first serious audit arrives and nobody has closed a finding on records before.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence), where the findings tracker is long and the same findings come back year after year.
 
 ## What has to change for your company
 
@@ -56,7 +63,7 @@ Map your findings tracker and evidence log to the column headers once, so every 
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, in two runs: an independent review changed the instruction block after the first, and the record of both is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three findings your compliance lead has already closed or sent back, plus cases written in advance, each with its expected result: an email standing in for a change record, a month with no sign-off, a second system with no record, a record tied to no promise, a header renamed in the export. The compliance lead checks every outcome against the files themselves before anyone relies on the comparison. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three findings your compliance lead has already closed or sent back, plus cases written in advance, each with its expected result: an email standing in for a change record, a month with no sign-off, a second system with no record, a record tied to no promise, a header renamed in the export. The compliance lead checks every outcome against the files themselves before anyone relies on the comparison. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -83,10 +90,10 @@ Testing in your environment means running it on two or three findings your compl
 
 ## Related workflow templates
 
-- [Audit evidence index](https://fullypowered.ai/workflows/audit-evidence-index/)
-- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)
-- [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/)
+- [Audit evidence index](https://fullypowered.ai/workflows/audit-evidence-index/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence)
+- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence)
+- [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence).

@@ -1,10 +1,17 @@
 # Obligation and filing calendar review
 
-Before each scheduled review, the compliance lead, company secretary or environmental lead sees what comes due from the organisation's own register: each obligation, filing and renewal with its owner, its due date as recorded, the evidence on file and every gap as a question. It works out no deadline and files nothing.
+Upcoming obligations, filings and renewals from your own register, each with owner, recorded due date, evidence on file and gaps as questions.
 
-*Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/obligation-and-filing-calendar-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Obligation and filing calendar review on our website](https://fullypowered.ai/workflows/obligation-and-filing-calendar-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/obligation-and-filing-calendar-review/?from=gh-obligation-and-filing-calendar-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/obligation-and-filing-calendar-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review)*
 
 ## The outcome
 
@@ -46,17 +53,17 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/), which keeps the register of what the organisation owes, to whom and by when.
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/), where the company secretary keeps each company's annual filings in order and counsel verifies what is owed.
-- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/), where the environmental lead tracks permit reports and monitoring rounds and the evidence each one leaves.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where a plant carries permits, inspections and licence renewals on many different cycles.
-- [Energy](https://fullypowered.ai/industries/energy/), where sites report monitoring results and renew registrations to several agencies at once.
-- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/), where a group of companies and registrations each carries its own annual filings.
-- [Healthcare](https://fullypowered.ai/industries/healthcare/), where facility licences, inspection certificates and registrations each renew on their own date.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the register has grown over years and some of its owners have moved on.
-- [Acquisitions and integration](https://fullypowered.ai/situations/acquisitions-and-integration/), where a newly acquired company's obligations join the register and need owners, verification and evidence before the first review.
+- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review), which keeps the register of what the organisation owes, to whom and by when.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review), where the company secretary keeps each company's annual filings in order and counsel verifies what is owed.
+- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review), where the environmental lead tracks permit reports and monitoring rounds and the evidence each one leaves.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review), where a plant carries permits, inspections and licence renewals on many different cycles.
+- [Energy](https://fullypowered.ai/industries/energy/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review), where sites report monitoring results and renew registrations to several agencies at once.
+- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review), where a group of companies and registrations each carries its own annual filings.
+- [Healthcare](https://fullypowered.ai/industries/healthcare/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review), where facility licences, inspection certificates and registrations each renew on their own date.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review), where the register has grown over years and some of its owners have moved on.
+- [Acquisitions and integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review), where a newly acquired company's obligations join the register and need owners, verification and evidence before the first review.
 
-Agreements with renewal and notice clauses belong in [contract renewal and notice register](https://fullypowered.ai/workflows/contract-renewal-notice-register/), which works under counsel's own counting rules. When an audit is coming, [audit preparation](https://fullypowered.ai/workflows/audit-preparation/) gathers the requests and evidence around it.
+Agreements with renewal and notice clauses belong in [contract renewal and notice register](https://fullypowered.ai/workflows/contract-renewal-notice-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review), which works under counsel's own counting rules. When an audit is coming, [audit preparation](https://fullypowered.ai/workflows/audit-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review) gathers the requests and evidence around it.
 
 ## What has to change for your company
 
@@ -68,7 +75,7 @@ We sit with the person who keeps the register and the people who verify it, writ
 
 FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, and the record of that run is published with the template. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your organisation means running it on a past review your compliance lead remembers well, plus hard cases written in advance, each with its expected result: a report whose recorded date has passed with no evidence, a reminder that gives a different date from the register, a renewal with no due date and a frequency of every two years, an owner who has left, and a request to "just add a year". The reviewer checks every date against the register before anyone relies on the list. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your organisation means running it on a past review your compliance lead remembers well, plus hard cases written in advance, each with its expected result: a report whose recorded date has passed with no evidence, a reminder that gives a different date from the register, a renewal with no due date and a frequency of every two years, an owner who has left, and a request to "just add a year". The reviewer checks every date against the register before anyone relies on the list. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -95,10 +102,10 @@ Testing in your organisation means running it on a past review your compliance l
 
 ## Related workflow templates
 
-- [Contract renewal and notice register](https://fullypowered.ai/workflows/contract-renewal-notice-register/)
-- [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/)
-- [Emissions activity data schedule](https://fullypowered.ai/workflows/emissions-activity-data-schedule/)
+- [Contract renewal and notice register](https://fullypowered.ai/workflows/contract-renewal-notice-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review)
+- [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review)
+- [Emissions activity data schedule](https://fullypowered.ai/workflows/emissions-activity-data-schedule/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-obligation-and-filing-calendar-review&from=gh-obligation-and-filing-calendar-review).
