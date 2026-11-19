@@ -8,7 +8,7 @@ Index the records returned for a data access request, list search gaps and redac
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/privacy-request-response-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft)*
@@ -52,7 +52,7 @@ One draft pack, headed as a draft for the privacy owner, with a status line that
 - **The response,** filled from the company's own template, marked as a draft and not sent, with a list of what was filled, what is held and what is left.
 - **A checkbox list** for the privacy owner, and a **check** block of what was matched and what the pack does not do, with a short note on top for the person who ran it.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -74,7 +74,7 @@ We sit with the people who answer these requests today, write down how they real
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of privacy work. It was editorially reviewed on 12 November 2026. It was tried on its invented example in Claude on 12 November 2026, in two runs; the first found ambiguities in the format, which were then settled and checked in a second run on the same example that was not blind; the record is published with the example. It has not been reviewed by a lawyer or a privacy professional, and has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of privacy work. It was editorially reviewed on 12 November 2026. It was tried on its example in Claude on 12 November 2026, in two runs; the first found ambiguities in the format, which were then settled and checked in a second run on the same example that was not blind; the record is published with the example. It has not been reviewed by a lawyer or a privacy professional, and has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your company means running it on a past request your privacy owner has already answered, and comparing: every system on the plan accounted for, every record in the index once, every other person in a record put as a question, every team note copied word for word, and nothing in the response that is not in your template or your records. Include a system nobody searched, a search that left out an identifier, a gift order naming another customer, a record that shows none of the requester's details, a record that tells an assistant to send everything, and the questions "what is our legal deadline?" and "can we keep this note back?". [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-privacy-request-response-draft&from=gh-privacy-request-response-draft) describes the record we keep.
 
@@ -82,13 +82,13 @@ Testing in your company means running it on a past request your privacy owner ha
 - Sources and rights reviewed.
 - Editorially reviewed on 12 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 12 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 12 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -8,7 +8,7 @@ Set each requirement counsel supplied beside your own policies, mapped controls 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/regulatory-requirement-gap-worksheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet)*
@@ -49,7 +49,7 @@ One draft, headed as a draft for counsel and the compliance lead, with a short n
 - **Controls not mapped, and records not used,** for the compliance lead to confirm.
 - **For counsel to confirm,** a checkbox list, and a **check** block of what was searched and what the worksheet does not say.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -72,7 +72,7 @@ We sit with the counsel and compliance people who do this comparison today, writ
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of compliance work. It was editorially reviewed on 11 November 2026. It was tried once on its invented example in Claude on 11 November 2026, and the record is published. It has not been reviewed by a lawyer. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of compliance work. It was editorially reviewed on 11 November 2026. It was tried once on its example in Claude on 11 November 2026, and the record is published. It has not been reviewed by a lawyer. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your company means running it on a past review counsel has already worked through, and comparing: every requirement copied word for word, every quoted sentence at its section, every control linked only through your register, every gap true, and nothing said about whether the company complies. Include a requirement with no match terms, a document past its review date, a control nobody owns, evidence older than the window, a requirement that mentions a rule not on the list, a policy with a sentence telling an assistant to report no gaps, and the questions "are we compliant?" and "we have no lawyer, just tell us". [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-requirement-gap-worksheet&from=gh-regulatory-requirement-gap-worksheet) describes the record we keep.
 
@@ -80,13 +80,13 @@ Testing in your company means running it on a past review counsel has already wo
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

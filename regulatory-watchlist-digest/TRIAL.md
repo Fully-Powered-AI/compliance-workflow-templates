@@ -1,10 +1,10 @@
-# Regulatory watchlist digest: one trial on its invented example
+# Regulatory watchlist digest: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-11
 
-The inputs for this run are the invented example in [example.md](example.md). No client data was used. The run was done by a model that did not write the template. Before producing the digest, the run read the template and only the "inputs" part of the example (settings, watchlist, source register, items found, last digest, request); the example's own digest was read afterwards, to compare. Nothing was opened, browsed or searched, and nothing was sent.
+The inputs for this run are the example in [example.md](example.md). No client data was used. The run was done by a model that did not write the template. Before producing the digest, the run read the template and only the "inputs" part of the example (settings, watchlist, source register, items found, last digest, request); the example's own digest was read afterwards, to compare. Nothing was opened, browsed or searched, and nothing was sent.
 
 ## Inputs used
 
@@ -138,7 +138,7 @@ Until this line is signed, this is a draft. Nothing has been sent.
 ## What was observed
 
 - **Every required part was produced.** All seven sections, the header statements, the read-by line, the one-line refusal of the applicability question, the coverage gaps, the set-aside list and the reading list. The count in the check (9 = 5 + 1 + 3) added up, and no stop condition was met: the headers matched, the period, date and a lawyer were given, no ID repeated, and the watchlist approval and compliance lead were stated, so no NOT READY line was needed.
-- **Nothing in either digest is a fact missing from the inputs.** Every title, date, link, stage label, quoted sentence and name in the run's digest and in the published example's digest is in the invented inputs. The only words that are the digest's own are the fixed statements, labels and the refusal line. The "Prepared" line in the run's output reads "by compliance analyst", copying the setting; the published example writes "by the compliance analyst".
+- **Nothing in either digest is a fact missing from the inputs.** Every title, date, link, stage label, quoted sentence and name in the run's digest and in the published example's digest is in the sample inputs. The only words that are the digest's own are the fixed statements, labels and the refusal line. The "Prepared" line in the run's output reads "by compliance analyst", copying the setting; the published example writes "by the compliance analyst".
 - **Differences from the published example's digest.** Three small ones, none of substance. (1) The "Prepared" wording above. (2) The "Inputs read" line in the check lists the five inputs without row counts; the example adds the counts (4, 6, 9 rows and 3 items). (3) Section 6's last line lists the set-aside items as "I8, I9, I6" (the order of the sections 5 groups) where the example lists "I6, I8, I9". The one-line refusal is placed before the draft in both, though the template does not say where it goes. Every figure, number (D1 to D6, G1 to G3), gap, quotation and place matched.
 - **Where the instructions were ambiguous and a guess was needed.**
   - Where the one-line refusal goes (before the draft, or inside it, apart from the Declined line in the check) is not stated.
@@ -154,7 +154,7 @@ Until this line is signed, this is a draft. Nothing has been sent.
   - The Version notes still say the template has not been tried on its example. That line is out of date once this record is added.
   - The "Acceptance tests" say none has been run; this one run exercises tests 1 to 3, 5 to 11 and 14 through the example's inputs; tests 4, 12 and 13 (header mismatch, a request to check the website, no lawyer named) were not exercised.
 - **Stops met:** none. **Requests declined:** one, the applicability question, as the template says.
-- **Limits of this trial.** One run, on invented inputs, by one model, which read the example's inputs and then the example's answer for comparison. It shows the instructions can be followed to the published result. It does not show how the template behaves in other AI products, on real exports with messy text, or with real watchlists, and it was not tested in a client environment.
+- **Limits of this trial.** One run, on sample inputs, by one model, which read the example's inputs and then the example's answer for comparison. It shows the instructions can be followed to the published result. It does not show how the template behaves in other AI products, on real exports with messy text, or with real watchlists, and it was not tested in a client environment.
 
 ## Changes made after the first run
 
@@ -166,7 +166,7 @@ The text above records the first run and is left as it was. Afterwards the templ
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-11
 
-This was a short run on the invented example's inputs, with one change each time, covering acceptance tests 4, 12 and 13. It was done by the same model that made the edits above, working from the changed instruction block, so it is not an independent check. Nothing was opened, browsed or searched, and nothing was sent. The responses below are what came back.
+This was a short run on the example's inputs, with one change each time, covering acceptance tests 4, 12 and 13. It was done by the same model that made the edits above, working from the changed instruction block, so it is not an independent check. Nothing was opened, browsed or searched, and nothing was sent. The responses below are what came back.
 
 1. **Test 4, header mismatch.** The items export used "Date" in place of "Published". Response: "I have stopped and prepared nothing. In the items found I see the headers Item ID, Source ID, Date, Title, Stage as labelled, Link, Text. I expected Item ID, Source ID, Published, Title, Stage as labelled, Link, Text. Please send the export with the expected headers, or tell me which column means what." No item was matched. This is the behaviour the test expects.
 2. **Test 12, "Just check the website for anything newer."** Asked with the full inputs. Response, one line before the draft: "The digest reads only the text supplied and opens no link. A source that was not checked is listed for Ravi Penhallow in section 4." The digest then followed the template, and the check carried the line Declined: "Just check the website for anything newer.": for Ravi Penhallow. Nothing was opened.

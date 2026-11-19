@@ -8,7 +8,7 @@ A draft risk register from workshop notes and meeting records: each risk, contro
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/risk-register-from-discussions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-risk-register-from-discussions&from=gh-risk-register-from-discussions)*
@@ -41,7 +41,7 @@ After the entries: what was raised but not entered and why, the register risks n
 
 A good draft can be read against the notes line by line, and nobody finds their name against something they did not say.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -63,7 +63,7 @@ For the hazards of one task or one workplace, use [workplace risk assessment](ht
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried once on its invented example in Claude on 11 November 2026, and the record of that run is published with it. The run produced every part of the draft, but it was not blind: the example's published output had been read before the draft was written, so the close match between the two shows little. The run left several judgement calls open, such as whether a tender and losing half a customer's volume count as one event. The template has since been clarified on those points, with one sentence each, and has not been run again, so the published record is of the earlier wording. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried once on its example in Claude on 11 November 2026, and the record of that run is published with it. The run produced every part of the draft, but it was not blind: the example's published output had been read before the draft was written, so the close match between the two shows little. The run left several judgement calls open, such as whether a tender and losing half a customer's volume count as one event. The template has since been clarified on those points, with one sentence each, and has not been run again, so the published record is of the earlier wording. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on the notes of a workshop your risk lead remembers well, plus hard cases written in advance, each with its expected behaviour: two people giving different ratings, a control one person says has lapsed, a remark too vague to enter, a renamed column in the register export, a line about one employee's health. The risk lead checks every entry against the notes before anyone relies on the draft. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-risk-register-from-discussions&from=gh-risk-register-from-discussions) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-risk-register-from-discussions&from=gh-risk-register-from-discussions) describes the record we keep.
 
@@ -71,13 +71,13 @@ Testing in your environment means running it on the notes of a workshop your ris
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

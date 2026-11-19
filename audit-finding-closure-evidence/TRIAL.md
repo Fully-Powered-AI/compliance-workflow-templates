@@ -1,10 +1,10 @@
-# Audit finding closure evidence: trial on the invented example
+# Audit finding closure evidence: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (claude-sonnet-5-5)
 - **Date:** 2026-11-11
 
-This records two runs of the workflow template on its invented example, both on 11 November 2026. The first run is recorded below as it was; what was changed after it, and the second run, follow it. The inputs are the invented ones; no client data was used. The model that ran it did not write the template.
+This records two runs of the workflow template on its example, both on 11 November 2026. The first run is recorded below as it was; what was changed after it, and the second run, follow it. The inputs are the sample ones; no client data was used. The model that ran it did not write the template.
 
 ## Inputs used
 
@@ -102,7 +102,7 @@ Draft for the Compliance lead. It compares records with promises. It does not sa
 
 **A gap in the paste-in block (found in the first run; fixed afterwards, see below).** The fenced instruction block says "Use the question wording in the template", but only the block and the output format are pasted. The exact wording of the questions before the decision, and the "Scope: not checked for design" lines, are in the procedure and not in the block. In this trial the whole template was in view, so this was not tested. A user who pastes only the block would have to guess that wording. The block also leaves out the default closure decider.
 
-**What this trial does not show.** It is one run on one invented example, by one model. It did not test the stop conditions, the declines, a missing response, a future-dated period or the other ten acceptance tests. It shows that the instructions can be followed to the published result, not that they hold on real findings.
+**What this trial does not show.** It is one run on one example, by one model. It did not test the stop conditions, the declines, a missing response, a future-dated period or the other ten acceptance tests. It shows that the instructions can be followed to the published result, not that they hold on real findings.
 
 ## Changed after the first run
 
@@ -115,7 +115,7 @@ An independent review of the first run found that a user who pastes only the ins
 
 ## Second run
 
-The template was run again on the same invented inputs, by Claude Sonnet 5.5 (claude-sonnet-5-5), in Claude Code, on 11 November 2026, working only from the changed instruction block, the output format and the lines under it. The model that edited the template also made this run, and it had read the published comparison while editing, so this run is weaker evidence than the first; it was not a fresh reader.
+The template was run again on the same sample inputs, by Claude Sonnet 5.5 (claude-sonnet-5-5), in Claude Code, on 11 November 2026, working only from the changed instruction block, the output format and the lines under it. The model that edited the template also made this run, and it had read the published comparison while editing, so this run is weaker evidence than the first; it was not a fresh reader.
 
 What was observed:
 
@@ -123,4 +123,4 @@ What was observed:
 - Nothing in the run needed wording that is outside the pasted text. Each of the seven choices listed above was answered by a sentence in the block, where the first run had to guess.
 - A real test of the paste-only case needs a reader who has seen neither the template nor the example. That has not been done.
 - After this run, small additions were made to the template for a later review: a stop when a promise has only one period date or a start date is after its end date, and a fallback for the operation retest question when no period is set. They do not apply to the example's inputs, so the example and this record were not changed and the template was not run again for them.
-- The limits in the first run's last paragraph still apply: one invented example, no stop conditions, declines or other acceptance tests were exercised.
+- The limits in the first run's last paragraph still apply: one example, no stop conditions, declines or other acceptance tests were exercised.

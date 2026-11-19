@@ -1,8 +1,8 @@
-# Privacy request response preparation: an invented example
+# Privacy request response preparation: an example
 
-*Illustrative example with invented data.* Company B, its systems and records, the requester, the other customer and every member of staff named below are invented. The email addresses use reserved example domains. Nothing here is any real company's record or any real person's data.
+*Illustrative example with sample data.* Company B, its systems and records, the requester, the other customer and every member of staff named below are illustrative. The email addresses use reserved example domains. Nothing here is any real company's record or any real person's data.
 
-Company B is an invented 45-person online shop selling cycling gear. A customer has asked for a copy of the personal data the company holds about them. Maren Holt, the privacy manager, logged the request, recorded the identity check, approved the identifiers and set the search plan and the due date. Three teams have searched and returned their records. Nadia Ferro, the privacy coordinator, runs the workflow template with the inputs below, given in full, and a covering message. Then comes what the workflow template prepares.
+Company B is an illustrative 45-person online shop selling cycling gear. A customer has asked for a copy of the personal data the company holds about them. Maren Holt, the privacy manager, logged the request, recorded the identity check, approved the identifiers and set the search plan and the due date. Three teams have searched and returned their records. Nadia Ferro, the privacy coordinator, runs the workflow template with the inputs below, given in full, and a covering message. Then comes what the workflow template prepares.
 
 ## Input 1: the request record
 

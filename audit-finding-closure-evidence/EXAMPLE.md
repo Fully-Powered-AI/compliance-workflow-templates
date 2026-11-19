@@ -1,6 +1,6 @@
-# Audit finding closure evidence: an invented example
+# Audit finding closure evidence: an example
 
-*Illustrative example with invented data.* The company, the people, the finding, the systems, the records and the dates below are all invented. The company is an invented 140-person payments software business with a small internal audit team. In the spring, internal audit raised a finding about people who had left keeping access to two internal systems. In November the IT operations manager reports the agreed actions complete and asks for the finding to be closed. The compliance lead runs the workflow template before the head of internal audit decides. First come the inputs the compliance lead supplied, in full, then the comparison the workflow template returned.
+*Illustrative example with sample data.* The company, the people, the finding, the systems, the records and the dates below are all illustrative. The company is an illustrative 140-person payments software business with a small internal audit team. In the spring, internal audit raised a finding about people who had left keeping access to two internal systems. In November the IT operations manager reports the agreed actions complete and asks for the finding to be closed. The compliance lead runs the workflow template before the head of internal audit decides. First come the inputs the compliance lead supplied, in full, then the comparison the workflow template returned.
 
 ## The inputs
 

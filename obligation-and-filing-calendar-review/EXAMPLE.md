@@ -1,6 +1,6 @@
-# Obligation and filing calendar review: an invented example
+# Obligation and filing calendar review: an example
 
-*Illustrative example with invented data.* The organisation, its companies, its plant, the registries and agencies, the people and every date below are invented. The organisation is an invented maker of industrial coatings, called the Company here, with two companies in its group (Entity A and Entity B) and one plant (Plant 1). The bodies it reports to are named by letter, and people are named by role. The compliance lead runs the quarterly review on Wednesday 11 November 2026. First come the inputs the compliance lead supplied, in full, then the list the workflow template returned.
+*Illustrative example with sample data.* The organisation, its companies, its plant, the registries and agencies, the people and every date below are illustrative. The organisation is an illustrative maker of industrial coatings, called the Company here, with two companies in its group (Entity A and Entity B) and one plant (Plant 1). The bodies it reports to are named by letter, and people are named by role. The compliance lead runs the quarterly review on Wednesday 11 November 2026. First come the inputs the compliance lead supplied, in full, then the list the workflow template returned.
 
 ## The inputs
 

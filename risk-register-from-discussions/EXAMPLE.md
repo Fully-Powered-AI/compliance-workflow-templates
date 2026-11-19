@@ -1,6 +1,6 @@
-# Risk register from risk discussions: an invented example
+# Risk register from risk discussions: an example
 
-*Illustrative example with invented data.* The company, the people, the suppliers, the customers, the incidents and every figure below are invented. The company is an invented 140-person maker of industrial pumps, called "the company" here. Its finance director, Ruth, is the risk lead and keeps the risk register. First come the inputs Ruth supplied, in full, then the draft the workflow template returned.
+*Illustrative example with sample data.* The company, the people, the suppliers, the customers, the incidents and every figure below are illustrative. The company is an illustrative 140-person maker of industrial pumps, called "the company" here. Its finance director, Ruth, is the risk lead and keeps the risk register. First come the inputs Ruth supplied, in full, then the draft the workflow template returned.
 
 ## The inputs
 

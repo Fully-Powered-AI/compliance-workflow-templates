@@ -1,6 +1,6 @@
-# Regulatory watchlist digest: an invented example
+# Regulatory watchlist digest: an example
 
-*Illustrative example with invented data.* The company, the people, the regulators, the sources, the rules, the links and every item below are invented. The company is an invented 140-person consumer lender, called "the Company" here. Its general counsel is Mara Quill and its compliance lead is Ravi Penhallow, both invented. The regulators and publishers are named by letter (Authority A, Authority B, Newsletter C, Ombudsman D, Authority E, Association F), and every link uses the reserved `.example` address, so none of them points anywhere. The Company runs the digest monthly; the compliance analyst collected October's items and ran it on Tuesday 3 November 2026.
+*Illustrative example with sample data.* The company, the people, the regulators, the sources, the rules, the links and every item below are illustrative. The company is an illustrative 140-person consumer lender, called "the Company" here. Its general counsel is Mara Quill and its compliance lead is Ravi Penhallow, both invented. The regulators and publishers are named by letter (Authority A, Authority B, Newsletter C, Ombudsman D, Authority E, Association F), and every link uses the reserved `.example` address, so none of them points anywhere. The Company runs the digest monthly; the compliance analyst collected October's items and ran it on Tuesday 3 November 2026.
 
 The inputs come first, in full, so the workflow template can be run on them. The digest follows.
 

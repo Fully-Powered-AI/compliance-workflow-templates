@@ -8,7 +8,7 @@ A dated digest of new items on your regulatory watchlist, quoted with links, wit
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/regulatory-watchlist-digest/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest)*
@@ -49,7 +49,7 @@ One draft digest for the named counsel, headed with what it does not do:
 6. **A reading list** for counsel to mark read and decide what applies, and for the compliance lead to record who follows up and how each gap is handled.
 7. **A check** that every item is accounted for and that no law or rule appears outside a quoted sentence.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -72,7 +72,7 @@ We sit with your compliance lead and counsel, write down how your watchlist revi
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of compliance work, with no third-party text. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its invented example in Claude on 11 November 2026, and a second short run covered a changed column, a request to check the website and a missing lawyer; the records are published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of compliance work, with no third-party text. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its example in Claude on 11 November 2026, and a second short run covered a changed column, a request to check the website and a missing lawyer; the records are published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your company means running it on two or three past periods your compliance lead remembers well, with hard cases written in advance: a source left unchecked, an item already reported, a column renamed in the export, a sentence in an item that tells the assistant what to do, and the questions people really ask ("does this apply to us?", "just check the website"). Counsel checks every quotation against the source before anyone relies on the digest. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-regulatory-watchlist-digest&from=gh-regulatory-watchlist-digest) describes the record we keep.
 
@@ -80,13 +80,13 @@ Testing in your company means running it on two or three past periods your compl
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

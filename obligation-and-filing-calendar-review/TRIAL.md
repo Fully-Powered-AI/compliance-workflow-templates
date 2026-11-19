@@ -1,10 +1,10 @@
-# Obligation and filing calendar review: one trial on the invented example
+# Obligation and filing calendar review: one trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-11
 
-The inputs were the invented example's own: its settings, a ten-row obligation register, a five-row evidence log and three notices, all listed in [the example](example.md). No client data was used. This is the second run on those inputs, made after the instruction block and output format were revised on the same day (the window wording, the Verified line, the Evidence line for a row with no usable due date, the group range for the notice gap, bullets for the obligation block, and two rules added to the block). The record of the first run, which found those ambiguities, is replaced by this one. The run followed the revised instruction block and output format with the inputs only; the example's own output was read afterwards, for comparison. One run, by one model, with no second run to see whether it repeats.
+The inputs were the example's own: its settings, a ten-row obligation register, a five-row evidence log and three notices, all listed in [the example](example.md). No client data was used. This is the second run on those inputs, made after the instruction block and output format were revised on the same day (the window wording, the Verified line, the Evidence line for a row with no usable due date, the group range for the notice gap, bullets for the obligation block, and two rules added to the block). The record of the first run, which found those ambiguities, is replaced by this one. The run followed the revised instruction block and output format with the inputs only; the example's own output was read afterwards, for comparison. One run, by one model, with no second run to see whether it repeats.
 
 ## What came out
 

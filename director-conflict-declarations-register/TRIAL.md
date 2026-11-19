@@ -1,10 +1,10 @@
-# Director conflict of interest declarations register: tried once on its invented example
+# Director conflict of interest declarations register: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID `claude-sonnet-5-5`)
 - **Date:** 2026-11-11
 
-The inputs are the invented example in [`example.md`](example.md): the Foundation, its directors and officers, the forms, the matters list and the "Example Board Code" are all made up. No client data was used. The model that ran the template did not write it, and it worked from the seven inputs and the template's instruction block and output format before it looked at the example's own output.
+The inputs are the example in [`example.md`](example.md): the Foundation, its directors and officers, the forms, the matters list and the "Example Board Code" are all made up. No client data was used. The model that ran the template did not write it, and it worked from the seven inputs and the template's instruction block and output format before it looked at the example's own output.
 
 ## Inputs used
 

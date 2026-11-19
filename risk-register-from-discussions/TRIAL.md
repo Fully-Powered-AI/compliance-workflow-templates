@@ -1,10 +1,10 @@
-# Trial: Risk register from risk discussions, run once on its invented example
+# Trial: Risk register from risk discussions, run once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-11
 
-The inputs are the invented example in `public/example.md` (sections 1 to 6 under "The inputs": the review settings, the rating scale, the current register, the incident log and records R1 and R2). No client data was used. The model that ran the template did not write it.
+The inputs are the example in `public/example.md` (sections 1 to 6 under "The inputs": the review settings, the rating scale, the current register, the incident log and records R1 and R2). No client data was used. The model that ran the template did not write it.
 
 One thing weakens this trial, and it is stated first. The run was meant to be done before the example's published output was read. In practice the example file was opened whole, so the published output was on screen before the draft below was written. The draft was still built step by step from the template's rules and the inputs, and the comparison below is made line by line, but the two outputs are not independent. Read the closeness of the match with that in mind. A run by a reader who has not seen the example would be a stronger test.
 

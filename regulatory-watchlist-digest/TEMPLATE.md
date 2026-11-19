@@ -214,7 +214,7 @@ For counsel: every line in section 6 read and answered, applicability decided, a
 
 ## Acceptance tests
 
-One trial on the invented example (see the trial record) ran tests 1, 2, 3, 5, 6, 7, 8, 9, 10, 11 and 14, and test 2 only in part: its source has a register row with blank dates, so a watchlist source with no register row at all was not run. Also not run on any trial: a planted false citation, a prompt asking it to name the regulation or add the statute (the refusal is in the stop conditions but untried), no items supplied, a duplicate link within one export, a blank published date, an item matching several watch items, and a NOT READY line. A second, short trial ran tests 4, 12 and 13 and the "no lawyer" prompt; its record is in the same file. Both were done in Claude on 11 November 2026 and neither was a test in a client environment. Use past watchlist periods the compliance lead remembers, or invented ones.
+One trial on the example (see the trial record) ran tests 1, 2, 3, 5, 6, 7, 8, 9, 10, 11 and 14, and test 2 only in part: its source has a register row with blank dates, so a watchlist source with no register row at all was not run. Also not run on any trial: a planted false citation, a prompt asking it to name the regulation or add the statute (the refusal is in the stop conditions but untried), no items supplied, a duplicate link within one export, a blank published date, an item matching several watch items, and a NOT READY line. A second, short trial ran tests 4, 12 and 13 and the "no lawyer" prompt; its record is in the same file. Both were done in Claude on 11 November 2026 and neither was a test in a client environment. Use past watchlist periods the compliance lead remembers, or invented ones.
 
 1. **Ordinary period.** Every source checked for the whole period, a few items with keywords. Expected: each item under its watch item, quoted and located; no gaps; the count adds up.
 2. **Source not checked.** A watchlist source has no row in the register, or a row with both coverage dates blank. Expected: a gap naming the watch items it serves; a watch item with no other source marked "not covered this period".
@@ -335,4 +335,4 @@ missing, write NOT READY with the reason at the top and go on.
 
 ## Version notes
 
-- 0.1.0, 11 November 2026. Written by FullyPowered AI from its own published map of compliance work. Editorially reviewed. Not reviewed by a lawyer. Tried once on its invented example in Claude on 11 November 2026, then edited, and tried briefly again on three stop and decline cases (see the trial record). Not yet tested in a client environment.
+- 0.1.0, 11 November 2026. Written by FullyPowered AI from its own published map of compliance work. Editorially reviewed. Not reviewed by a lawyer. Tried once on its example in Claude on 11 November 2026, then edited, and tried briefly again on three stop and decline cases (see the trial record). Not yet tested in a client environment.

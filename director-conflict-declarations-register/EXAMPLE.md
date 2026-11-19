@@ -1,8 +1,8 @@
-# Director conflict of interest declarations register: an invented example
+# Director conflict of interest declarations register: an example
 
-*Illustrative example with invented data.* The Foundation, its directors and officers, Suppliers P and U, Customer Q, Firms S and Z, Org R, Network T, the forms, the matters list and the "Example Board Code" are all invented. The Example Board Code does not exist: it is planted in one form to show how the register treats a reference to a rule it cannot verify.
+*Illustrative example with sample data.* The Foundation, its directors and officers, Suppliers P and U, Customer Q, Firms S and Z, Org R, Network T, the forms, the matters list and the "Example Board Code" are all illustrative. The Example Board Code does not exist: it is planted in one form to show how the register treats a reference to a rule it cannot verify.
 
-The Foundation is an invented community health nonprofit with a board of five directors and a chief executive who also declares. Its compliance lead decides on declared interests. On Wednesday 11 November 2026, eight days before the November board meeting, the company secretary supplies seven inputs, given here in full, and the workflow template prepares the register.
+The Foundation is an illustrative community health nonprofit with a board of five directors and a chief executive who also declares. Its compliance lead decides on declared interests. On Wednesday 11 November 2026, eight days before the November board meeting, the company secretary supplies seven inputs, given here in full, and the workflow template prepares the register.
 
 ## Input 1: the settings
 

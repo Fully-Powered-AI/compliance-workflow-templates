@@ -1,10 +1,10 @@
-# Regulatory requirement gap worksheet: tried once on its invented example
+# Regulatory requirement gap worksheet: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (`claude-sonnet-5-5`)
 - **Date:** 2026-11-11
 
-The inputs are the invented example in [example.md](example.md) (Company A, Regulator R, Ines, Marek and Sana). No client data was used. The run was a single attempt by a model that did not write the template. It followed the instruction block and the output format in `member/template.md`, and read the example's output only after producing its own.
+The inputs are the example in [example.md](example.md) (Company A, Regulator R, Ines, Marek and Sana). No client data was used. The run was a single attempt by a model that did not write the template. It followed the instruction block and the output format in `member/template.md`, and read the example's output only after producing its own.
 
 ## Inputs used
 
@@ -309,6 +309,6 @@ in it is used.
 
 **Defects in the template found:**
 
-- The "Version notes" at the end still say "Not yet tried on its invented example". That will be out of date once this record is linked.
+- The "Version notes" at the end still say "Not yet tried on its example". That will be out of date once this record is linked.
 - Two of the acceptance tests (stops on a missing header, no-counsel line) cannot be seen in this run because the example does not trigger them. Only the planted instruction, the near-miss matches ("third parties", "third-party", "notified"), the cap of three sentences and the decline of the rule 5.2 question were exercised, and each behaved as expected.
 - Output length: the full worksheet for four requirements is long. It was produced in one pass without trouble in this run; a longer requirement list was not tried.

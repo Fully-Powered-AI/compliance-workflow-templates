@@ -1,8 +1,8 @@
-# Regulatory requirement gap worksheet: an invented example
+# Regulatory requirement gap worksheet: an example
 
-*Illustrative example with invented data.* Company A, Regulator R, its Conduct Rules, every requirement, policy, procedure, control and evidence record, and every person named below are invented. None of it is any real regulator's rule. It must not be cited or relied on for anything.
+*Illustrative example with sample data.* Company A, Regulator R, its Conduct Rules, every requirement, policy, procedure, control and evidence record, and every person named below are illustrative. None of it is any real regulator's rule. It must not be cited or relied on for anything.
 
-Company A is an invented 140-person payments software company. Its general counsel has copied four requirements from a new part of Regulator R's rules and wants to see where the company's own records stand against each. The compliance analyst runs the worksheet with seven inputs, given here in full. Then comes what the workflow template prepares.
+Company A is an illustrative 140-person payments software company. Its general counsel has copied four requirements from a new part of Regulator R's rules and wants to see where the company's own records stand against each. The compliance analyst runs the worksheet with seven inputs, given here in full. Then comes what the workflow template prepares.
 
 ## Input 1: counsel's request
 

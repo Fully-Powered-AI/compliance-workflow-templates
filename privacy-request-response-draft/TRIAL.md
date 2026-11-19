@@ -1,10 +1,10 @@
-# Privacy request response preparation: trial on the invented example
+# Privacy request response preparation: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-12
 
-I did not write the first version of this workflow template; I made the later changes described below. I ran it on 12 November 2026, following the fenced instruction block and the output format as written. After that first run the instruction block, the output format and one line of the example were changed to answer the ambiguities listed below, and I ran it a second time; the second run is recorded at the end. The first run's record, from here to "What this trial does not show", is unchanged except for this paragraph and the heading "First run" added above it. The inputs are the invented example's inputs (Company B, the requester, the other customer and the staff are all invented). No client data was used.
+I did not write the first version of this workflow template; I made the later changes described below. I ran it on 12 November 2026, following the fenced instruction block and the output format as written. After that first run the instruction block, the output format and one line of the example were changed to answer the ambiguities listed below, and I ran it a second time; the second run is recorded at the end. The first run's record, from here to "What this trial does not show", is unchanged except for this paragraph and the heading "First run" added above it. The inputs are the example's inputs (Company B, the requester, the other customer and the staff are all illustrative). No client data was used.
 
 ## First run
 
@@ -225,13 +225,13 @@ A draft for Maren Holt, who decides what, if anything, is sent.
 9. **A second email address.** R-05 was sent from an address that is not on the approved list. The template's rule lists it as another person's data, and the pack cannot say it may be the requester's own. The "is this about the requester" question covers it, but a privacy owner may want a note that the sender could be the requester using a second address.
 10. **Facts line of Q4 and the gap facts.** The format says "the facts" for these without defining them, so the wording is left to the assistant.
 
-**Defects in the template text itself.** The version note at the foot still says "Not yet tried on its invented example"; that is out of date once this record exists. The instruction block drops two things the full template states: the stop for a request that asks for copies and something else, and the handling of a password or card number found in a record. I did not need either here, so I could not test them.
+**Defects in the template text itself.** The version note at the foot still says "Not yet tried on its example"; that is out of date once this record exists. The instruction block drops two things the full template states: the stop for a request that asks for copies and something else, and the handling of a password or card number found in a record. I did not need either here, so I could not test them.
 
-**What this trial does not show.** It is one run, on one invented example, by the model named above. It does not test the stops, the identity-not-verified path, the no-due-date path, a limited period, count mismatches or a missing copy. No lawyer or privacy professional has reviewed the template.
+**What this trial does not show.** It is one run, on one example, by the model named above. It does not test the stops, the identity-not-verified path, the no-due-date path, a limited period, count mismatches or a missing copy. No lawyer or privacy professional has reviewed the template.
 
 ## Second run, after the changes
 
-Same product (Claude, run in Claude Code), same model (Claude Sonnet 5.5, model ID claude-sonnet-5-5), same date (2026-11-12), same invented inputs.
+Same product (Claude, run in Claude Code), same model (Claude Sonnet 5.5, model ID claude-sonnet-5-5), same date (2026-11-12), same sample inputs.
 
 **How this run differs from the first.** It was not a blind run. By then I had my own first output and the example's pack in front of me. I read the revised instruction block and output format, applied them rule by rule to the six inputs and the covering message, and then compared the result with the example's pack. In one place my draft departed from the block's fixed text (the G3 facts line: I had written "the log has no row for it", the block says "the log has no search for it") and I corrected it. Treat this run as a check that the revised block yields a pack that matches the example, not as an independent test.
 
@@ -428,4 +428,4 @@ A draft for Maren Holt, who decides what, if anything, is sent.
 
 **The first run's remarks on the instruction block, checked against the file.** The first run said the block drops the handling of a password or card number. That was mistaken: it was in the block (the second paragraph) all along. The first run was right that the block dropped the mixed-request stop and the fixed question texts; both are now in the block.
 
-**Not exercised by this run.** The mixed-request stop, the other stops, a limited period, a count mismatch, a missing copy, the not-verified and no-due-date paths, a named counsel, and the singular for open items or questions. One run on one invented example, by the same model that read the changes. No lawyer or privacy professional has reviewed the template, and it has not been tested in a client environment.
+**Not exercised by this run.** The mixed-request stop, the other stops, a limited period, a count mismatch, a missing copy, the not-verified and no-due-date paths, a named counsel, and the singular for open items or questions. One run on one example, by the same model that read the changes. No lawyer or privacy professional has reviewed the template, and it has not been tested in a client environment.

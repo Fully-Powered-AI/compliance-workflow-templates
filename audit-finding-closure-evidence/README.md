@@ -8,7 +8,7 @@ Set an audit finding, its promised actions and the records supplied side by side
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/audit-finding-closure-evidence/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence)*
@@ -43,7 +43,7 @@ One comparison in a fixed order. It opens with the finding as recorded and two c
 
 Then each action in plan order, with what the owner reported and any note (reported by someone other than its owner, past due, reported done after the due date), and under it each promised item with its outcome, the records counted, the records not counted with the reason, and exactly what is missing. Records tied to no promise come next, then the retest questions, the questions before the closure decision and the decisions kept for people. Every empty section says so.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -61,7 +61,7 @@ Map your findings tracker and evidence log to the column headers once, so every 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, in two runs: an independent review changed the instruction block after the first, and the record of both is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried on its example in Claude on 11 November 2026, in two runs: an independent review changed the instruction block after the first, and the record of both is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three findings your compliance lead has already closed or sent back, plus cases written in advance, each with its expected result: an email standing in for a change record, a month with no sign-off, a second system with no record, a record tied to no promise, a header renamed in the export. The compliance lead checks every outcome against the files themselves before anyone relies on the comparison. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=compliance-audit-finding-closure-evidence&from=gh-audit-finding-closure-evidence) describes the record we keep.
 
@@ -69,13 +69,13 @@ Testing in your environment means running it on two or three findings your compl
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
