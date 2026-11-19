@@ -4,6 +4,8 @@ Each declarations round, and when a new director joins, the company secretary ge
 
 *Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/director-conflict-declarations-register/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/director-conflict-declarations-register/?from=gh-director-conflict-declarations-regist)
+
 ## The outcome
 
 The annual round of declarations stops living in an inbox and a memory. The company secretary sees every director and officer on one page: when each was asked, the date the form was due back, whether it has arrived and, if not, how many days it is past. A director who joined part-way through the year is checked for the declaration they were asked for on joining. Every gap in a returned form is listed, from an unanswered question to a missing signature, so it can be chased before the meeting rather than discovered in it.

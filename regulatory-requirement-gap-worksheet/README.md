@@ -4,6 +4,8 @@ Counsel and the compliance lead get one worksheet: each requirement counsel supp
 
 *Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/regulatory-requirement-gap-worksheet/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/regulatory-requirement-gap-worksheet/?from=gh-regulatory-requirement-gap-worksheet)
+
 ## The outcome
 
 When counsel brings a new or changed rule to the table, the first question is always the same: what do our own records already say about each requirement, and where are the holes? This workflow template answers that question from the records, the same way every time, so counsel spends the meeting on judgment instead of on hunting through folders.

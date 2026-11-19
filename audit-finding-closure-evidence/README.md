@@ -4,6 +4,8 @@ When an owner says an audit finding is fixed, the compliance lead gets the findi
 
 *Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/audit-finding-closure-evidence/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/audit-finding-closure-evidence/?from=gh-audit-finding-closure-evidence)
+
 ## The outcome
 
 "Done, please close it" is a message every compliance lead knows, and one of the slowest to check. The action plan promised particular evidence. The owner sends a folder of attachments. Somebody has to line the two up, notice the month with no sign-off, the second system nobody mentions and the email standing in for a change record, and then chase each gap.

@@ -4,6 +4,8 @@ On the agreed schedule, counsel and the compliance lead get one dated digest of 
 
 *Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/regulatory-watchlist-digest/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/regulatory-watchlist-digest/?from=gh-regulatory-watchlist-digest)
+
 ## The outcome
 
 Every period ends with the same page, built from your own watchlist. Each new item from your agreed sources sits under the topic it belongs to, with its title, its source, the date it was published, the stage the publisher gave it and its link. Its key sentences are quoted with their places, so counsel can see in seconds what it says without anyone's gloss on it. A rule, a comment date or an effective date mentioned in the text is quoted on its own line, never counted and never explained.

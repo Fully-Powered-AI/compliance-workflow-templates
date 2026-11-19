@@ -4,6 +4,8 @@ After a risk workshop or a leadership meeting, the risk lead gets a draft regist
 
 *Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/risk-register-from-discussions/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/risk-register-from-discussions/?from=gh-risk-register-from-discussions)
+
 ## The outcome
 
 The register catches up with the conversation. A good workshop surfaces more than anyone writes down, and the notes sit in a folder until the week before the board asks. This workflow template turns those notes into entries the same day, in the shape your register already uses, so the risk lead walks into the review with a draft instead of a blank sheet.

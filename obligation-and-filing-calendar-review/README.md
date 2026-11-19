@@ -4,6 +4,8 @@ Before each scheduled review, the compliance lead, company secretary or environm
 
 *Workflow template · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/obligation-and-filing-calendar-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/obligation-and-filing-calendar-review/?from=gh-obligation-and-filing-calendar-review)
+
 ## The outcome
 
 The review starts from one list instead of a spreadsheet and a memory. Every obligation in the window is there in date order: the annual reports for each company in the group, the licence and certificate renewals, the permit reports and monitoring rounds. Each line shows who owns it, the due date exactly as the register holds it, what evidence of completion the register asks for and what is actually on file.
